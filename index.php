@@ -9,3 +9,5 @@ echo 'Regel numero tres';
 echo 'Vierde regel';
 
 echo 'Vijfde regel';
+
+echo 'Zesde regel';
